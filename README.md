@@ -28,7 +28,8 @@
    4. Right click on your deck and select Search
    5. Drag your commander out of the deck and close the search
    6. hover over your commander and the token pile and press 'f' to flip them over
-   7. You can now play with this deck or put it in a deckbox and save to a folder of saved objects
+   7. You can now play with this deck or put it in a deckbox and save to a folder of saved objects:
+       ![Gif of the below steps](/BringDecksOut.gif)
       1. If you saved an empty deckbox from the MTG: Commander Table version bring one of those out
       2. Click and hold over the deck to pick the whole deck up, then drop over the deckbox
       3. Repeat for Commander and Token piles

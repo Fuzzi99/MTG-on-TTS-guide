@@ -9,11 +9,6 @@
 
 **About:** TableTop Simulator is the number one way to play any TableTop game on your computer, it's effectively just a glorified physics engine that's been modded to hell and back to support almost every possible TableTop game you can think of.
 
-***Features:***
-
-- A physics engine; you can flip the table when you lose, roll dice, flip coins, etc by picking them up and rolling/flipping them
-- Many different table designs to meet your needs
-- Some preconstructed decks in one of the recommended table options
 
 ***How to setup***
 1. Purchase and install TableTop Simulator from Steam
